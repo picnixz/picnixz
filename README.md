@@ -11,7 +11,7 @@ I am currently contributing to [Sphinx](https://github.com/sphinx-doc/sphinx). M
 ### about:publications
 
 - Bénédikt Tran and Serge Vaudenay: *Extractable Witness Encryption for the Homogeneous Linear Equation problem*. In: International Workshop on Security (IWSEC) 2023.
-  DOI: to be published
+  DOI: [https://doi.org/10.1007/978-3-031-41326-1_9](https://doi.org/10.1007/978-3-031-41326-1_9).
 
 - Bénédikt Tran and Serge Vaudenay: *A Gapless Post-quantum Hash Proof System in the Hamming Metric*. In: Applied Cryptography and Network Security (ACNS) 2023.
   DOI: [https://doi.org/10.1007/978-3-031-33488-7_25](https://doi.org/10.1007/978-3-031-33488-7_25).
