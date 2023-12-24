@@ -6,7 +6,7 @@ I am a PhD student in post-quantum cryptography and code-based cryptography. Asi
 - __**Web**__: Typescript (Angular) or PHP for backend, HTML/CSS/SCSS and Angular for frontend.
 - __**Black magic**__: Bash, PARI/GP, TeX/LaTeX.
 
-I am currently contributing to [Sphinx](https://github.com/sphinx-doc/sphinx). My hobbies are music, video games, animes, JP/CN/KR novels and mangas.
+I am currently a maintainer of [Sphinx](https://github.com/sphinx-doc/sphinx). My hobbies are music, video games, animes, JP/CN/KR novels and mangas.
 
 ### about:publications
 
