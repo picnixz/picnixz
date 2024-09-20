@@ -1,6 +1,6 @@
 ### about:me
 
-I am a PhD student in post-quantum cryptography and code-based cryptography. Previously, I focused on algebraic number theory and algebraic geometry (specifically working on isogenies between ordinary abelian surfaces and attacking them using quantum algorithms). Aside from that, I've been programming in many different languages such as:
+I hold a PhD delivered by Ecole Polytechnique Fédérale de Lausanne (EPFL) in post-quantum cryptography and code-based cryptography. Previously, I focused on algebraic number theory and algebraic geometry (specifically working on isogenies between ordinary abelian surfaces and attacking them using quantum algorithms). Aside from that, I've been programming in many different languages such as:
 
 - __**System**__: Python, C/C++, Java/Scala.
 - __**Web**__: Typescript (Angular) or PHP for backend, HTML/CSS/SCSS and Angular for frontend.
