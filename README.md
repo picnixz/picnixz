@@ -6,7 +6,7 @@ I hold a PhD delivered by Ecole Polytechnique Fédérale de Lausanne (EPFL) in p
 - __**Web**__: Typescript (Angular) or PHP for backend, HTML/CSS/SCSS and Angular for frontend.
 - __**Black magic**__: Bash, PARI/GP, TeX/LaTeX.
 
-I am currently a maintainer of [Sphinx](https://github.com/sphinx-doc/sphinx) and I sporadically contribute to CPython. My hobbies are music, video games, animes, JP/CN/KR novels and mangas.
+I am currently a maintainer of [Sphinx](https://github.com/sphinx-doc/sphinx) and a member of the [CPython](https://github.com/python/cpython) triage team. My hobbies are music, video games, animes, JP/CN/KR novels and mangas.
 
 ### about:publications
 
