@@ -10,6 +10,8 @@ I am currently a maintainer of [Sphinx](https://github.com/sphinx-doc/sphinx) an
 
 ### about:publications
 
+- Bénédikt Tran: *Post-Quantum Code-Based Cryptography*. PhD Thesis, EPFL 2024. [https://infoscience.epfl.ch/handle/20.500.14299/241269](https://infoscience.epfl.ch/handle/20.500.14299/241269).
+
 - Bénédikt Tran and Serge Vaudenay: *Extractable Witness Encryption for the Homogeneous Linear Equation problem*. In: International Workshop on Security (IWSEC) 2023.
   DOI: [https://doi.org/10.1007/978-3-031-41326-1_9](https://doi.org/10.1007/978-3-031-41326-1_9).
 
