@@ -1,6 +1,10 @@
 ### about:me
 
-I hold a PhD delivered by Ecole Polytechnique Fédérale de Lausanne (EPFL) in post-quantum cryptography and code-based cryptography. Previously, I focused on algebraic number theory and algebraic geometry (specifically working on isogenies between ordinary abelian surfaces and attacking them using quantum algorithms). Aside from that, I've been programming in many different languages such as:
+I hold a PhD delivered by Ecole Polytechnique Fédérale de Lausanne (EPFL) in post-quantum cryptography and code-based cryptography,
+a Master in Mathematics focused on algebraic number theory, algebraic geometry and modular forms (specifically working on computing
+secret isogenies between ordinary abelian surfaces using quantum algorithms), and a Bachelor of Arts in Music.
+
+Aside from that, I've been programming in many different languages such as:
 
 - __**System**__: Python, C/C++, Java/Scala.
 - __**Web**__: PHP/Typescript, HTML/CSS/SCSS.
