@@ -10,7 +10,12 @@ Aside from that, I've been programming in many different languages such as:
 - __**Web**__: PHP/Typescript, HTML/CSS/SCSS.
 - __**Black magic**__: Make, Bash, PARI/GP, TeX/LaTeX.
 
-I am currently a maintainer of [Sphinx](https://github.com/sphinx-doc/sphinx) and a member of the [CPython](https://github.com/python/cpython) triage team. My hobbies are music, video games, animes, JP/CN/KR novels and mangas.
+I am currently a maintainer of the following projects:
+
+- [Sphinx](https://github.com/sphinx-doc/sphinx)
+- [CPython](https://github.com/python/cpython)
+
+My hobbies are music, video games, animes, JP/CN/KR novels and mangas.
 
 ### about:publications
 
