@@ -7,7 +7,7 @@ secret isogenies between ordinary abelian surfaces using quantum algorithms), an
 Aside from that, I've been programming in many different languages such as:
 
 - __**System**__: Python, C/C++, Java/Scala.
-- __**Web**__: PHP/Typescript, HTML/CSS/SCSS.
+- __**Web**__: PHP/TypeScript, HTML/CSS/SCSS.
 - __**Black magic**__: Make, Bash, PARI/GP, TeX/LaTeX.
 
 I am currently a maintainer of the following projects:
