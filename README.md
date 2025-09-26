@@ -15,7 +15,7 @@ I am currently a maintainer of the following projects:
 - [Sphinx](https://github.com/sphinx-doc/sphinx)
 - [CPython](https://github.com/python/cpython)
 
-My hobbies are music, video games, animes, JP/CN/KR novels and mangas.
+My hobbies are music, video games, anime, JP/CN/KR novels and mangas.
 
 ### about:publications
 
