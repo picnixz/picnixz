@@ -12,8 +12,8 @@ Aside from that, I've been programming in many different languages such as:
 
 I am currently a maintainer of the following projects:
 
-- [Sphinx](https://github.com/sphinx-doc/sphinx)
 - [CPython](https://github.com/python/cpython)
+- [Sphinx](https://github.com/sphinx-doc/sphinx)
 
 My hobbies are music, video games, animes, JP/CN/KR novels and mangas.
 
