@@ -1,16 +1,19 @@
 ### about:me
 
-I hold a PhD delivered by Ecole Polytechnique Fédérale de Lausanne (EPFL) in post-quantum cryptography and code-based cryptography,
-a Master in Mathematics focused on algebraic number theory, algebraic geometry and modular forms (specifically working on computing
-secret isogenies between ordinary abelian surfaces using quantum algorithms), and a Bachelor of Arts in Music.
+I hold a PhD delivered by [Ecole Polytechnique Fédérale de Lausanne](https://www.epfl.ch) (EPFL)
+in [post-quantum code-based cryptography](https://en.wikipedia.org/wiki/Post-quantum_cryptography),
+a Master in Mathematics in number theory primarily oriented towards the study of the arithmetic properties
+of [modular forms](https://ncatlab.org/nlab/show/modular+form) and the algorithmic aspects of computing
+[isogenies](https://ncatlab.org/nlab/show/isogeny) between [abelian varieties](https://ncatlab.org/nlab/show/abelian+variety)
+(which elliptic curves are a special case thereof in dimension $1$), and finally a Bachelor of Arts in Music.
 
-Aside from that, I've been programming in many different languages such as:
+As a software engineer, I have studied, developed, and maintained projects in the following languages:
 
 - __**System**__: Python, C/C++, Java/Scala.
 - __**Web**__: PHP/TypeScript, HTML/CSS/SCSS.
 - __**Black magic**__: Make, Bash, PARI/GP, TeX/LaTeX.
 
-I am currently a maintainer of the following projects:
+I actively maintain the following projects:
 
 - [CPython](https://github.com/python/cpython)
 - [Sphinx](https://github.com/sphinx-doc/sphinx)
