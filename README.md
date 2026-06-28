@@ -13,12 +13,25 @@ As a software engineer, I have studied, developed, and maintained projects in th
 - __**Web**__: PHP/TypeScript, HTML/CSS/SCSS.
 - __**Black magic**__: Make, Bash, PARI/GP, TeX/LaTeX.
 
-I actively maintain the following projects:
+I am currently a maintainer of the following FOSS projects:
 
 - [CPython](https://github.com/python/cpython)
 - [Sphinx](https://github.com/sphinx-doc/sphinx)
 
-My hobbies are music, video games, animes, JP/CN/KR novels and mangas.
+### about:career
+
+I was a teaching assistant in C++ (from 2014 to 2022) and cryptography and security lectures (from 2019 to 2023)
+for undergraduate and graduate students at EPFL. I supervised and graded OpenGL and Qt projects as well as several
+post-quantum cryptography projects, primarily on lattices and linear codes. During that time, I designed an automated
+tool for grading programming assignments.
+
+I also worked as a software engineer at a privacy-preserving company, where I designed a compiler in Scala for a custom
+DSL dedicated to [secure multi-party computation](https://en.wikipedia.org/wiki/Secure_multi-party_computation) (SMPC)
+and implemented its corresponding engine in C++. In parallel, I conducted research on machine learning and neural
+networks in the context of SMPC.
+
+Since 2025, I am a software engineer at [Macroscope](https://macroscope.com/), where I maintain the pipeline and internal
+tooling that power static-analysis-based code review in Python and C/C++.
 
 ### about:publications
 
@@ -32,7 +45,5 @@ My hobbies are music, video games, animes, JP/CN/KR novels and mangas.
   
 - Bénédikt Tran and Serge Vaudenay: *Solving the Learning Parity with Noise Problem Using Quantum Algorithms*. In: AFRICACRYPT 2022.
   DOI: [https://doi.org/10.1007/978-3-031-17433-9_13](https://doi.org/10.1007/978-3-031-17433-9_13).
-
-### about:talks
 
 - Bénédikt Tran: *On the Rank of Random Binary Sub-Matrices and its Impact for Information Set Decoding Algorithms*. Contributed Talk to CBCrypto 2024.
